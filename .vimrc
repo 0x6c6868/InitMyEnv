@@ -14,7 +14,6 @@ Plugin 'VundleVim/Vundle.vim'
 " Keep Plugin commands between vundle#begin/end.
 " plugin on GitHub repo
 Plugin 'scrooloose/nerdtree'
-Plugin 'majutsushi/tagbar'
 Plugin 'ctrlpvim/ctrlp.vim'
 
 " All of your Plugins must be added before the following line
