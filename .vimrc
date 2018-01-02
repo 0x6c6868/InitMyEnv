@@ -45,8 +45,3 @@ set colorcolumn=80
 " nerdtree conf
 map <C-n> :NERDTreeToggle<CR>
 let NERDTreeIgnore=['\.pyc', '\.o']
-
-" tagbar conf
-map <F12> :TagbarToggle<CR>
-" 启动时自动focus
-let g:tagbar_autofocus = 1
