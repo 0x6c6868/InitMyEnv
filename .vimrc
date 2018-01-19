@@ -44,4 +44,4 @@ set colorcolumn=80
 
 " nerdtree conf
 map <C-n> :NERDTreeToggle<CR>
-let NERDTreeIgnore=['\.pyc', '\.o']
+let NERDTreeIgnore=['\.pyc', '\.o', '__pycache__']
